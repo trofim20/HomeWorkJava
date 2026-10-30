@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.task1.entity;
 
 public class Person {
     private final String name;

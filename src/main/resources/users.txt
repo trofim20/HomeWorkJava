@@ -1,0 +1,5 @@
+Anton anton@mail.ru 1
+Polina polina@gmail.com 2
+Ivan ivan@yandex.ru 12
+Maria maria@mail.ru 15
+Sergey sergey@google.com 5

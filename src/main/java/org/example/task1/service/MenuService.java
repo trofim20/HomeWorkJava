@@ -1,4 +1,6 @@
-package org.example.task1;
+package org.example.task1.service;
+
+import org.example.task1.entity.Person;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -26,6 +28,7 @@ public class MenuService {
             try{
                 command = Integer.parseInt(scanner.nextLine());
             }catch (NumberFormatException e){
+                System.out.println("Введите номер пункта меню");
                 continue;
             }
 
